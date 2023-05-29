@@ -1,7 +1,6 @@
-// ボーレートを9600 bpsに設定
 void setup(){
   Serial.begin(115200);
-  Serial.println( "Hello Arduino!" );
+  Serial.println( "HELLO ARDUINO!" );
 }
 
 // ループ処理
